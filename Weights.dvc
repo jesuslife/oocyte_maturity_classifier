@@ -1,0 +1,18 @@
+outs:
+- hash: md5
+  path: Weights
+  files:
+  - relpath: oocyte_det.pt
+    md5: 244f06560d215fbb6bced943717943be
+    size: 92780693
+    cloud:
+      storage:
+        etag: 08f89095bbbece81031001
+        version_id: '1695944733444216'
+  - relpath: polar_body_clf.pt
+    md5: 50df1e9451c89d75c38f5ea3b9ce7189
+    size: 170600193
+    cloud:
+      storage:
+        etag: 08ffef83b8bece81031001
+        version_id: '1695944726870015'
